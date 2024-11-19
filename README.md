@@ -1,6 +1,11 @@
-# snacksquad
-Video Demonstration
+# Snacksquad
+### Video Demonstration
+https://drive.google.com/file/d/1y7RWONKO4fvjGfh4jZDHfYSMpvRlB7O6/view?usp=drivesdk
 
-https://drive.google.com/file/d/1iASEbnj8hJ5G4VbD_JsafIucRybcP-41/view?usp=drive_link
+### Team Leader
+Ramya.S
+
+### Team members
+Nasrin Begum.S, Keerthana.M, Meiyuraiyalan
 
 
